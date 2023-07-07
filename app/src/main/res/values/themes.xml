@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ID" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+     <item name="colorPrimary">@color/b</item> -->
+    </style>
+
+    <style name="Theme.ID" parent="Base.Theme.ID" />
+
+    <!--   -->
+    <style name="SCREEN">
+        <item name="android:background">#FFF</item>
+    </style>
+    
+    <style name="TEXT">
+        <item name="android:textColor">#1F1F1F</item>
+    </style>
+
+    <style name="BOTTON">
+        <item name="android:background">@android:color/holo_blue_dark</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Magic ID</string>
+    <string name="hint_id">Please enter your ID</string>
+    <string name="button">Button</string>
+    <string name="date_of_birth">"Date Of Birth:  "</string>
+    <string name="gender">Gender:</string>
+    <string name="nationality">"Nationality: "</string>
+</resources>
